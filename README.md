@@ -1,5 +1,6 @@
 # titanic
 
+Below titanic project is forked by pcsanwald
 A Clojure library that generates the same CSV file as done by excel, in Kaggle's 
 titanic example: http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-excel
 
